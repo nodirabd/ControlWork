@@ -1,4 +1,4 @@
-# created by virtualenv automatically
-
-__pycache__/
+__pychace__/
+.venv/
 venv/
+.env
